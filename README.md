@@ -32,9 +32,18 @@
 
 Setps of Installation :
 
-apt install openjdk-11-jre-headless -y
+1. apt update 
 
-curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash - sudo apt-get install -y nodejs 
+2. apt install git 
+
+3. apt install curl 
+
+4. apt install wget -y
+
+5. apt install openjdk-11-jre-headless -y
+
+6. curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash - sudo apt-get install -y nodejs
+
 
  
     
