@@ -32,7 +32,10 @@
 
 ## first setps of Installation [Click Here](https://github.com/Dev-MHM/rat/blob/master/pak.txt)
 
-## Last setps of Installation [Click Here](https://github.com/Dev-MHM/rat/blob/master/pak.txt)
+## Last setps of Installation [Click Here](https://github.com/Dev-MHM/rat/blob/master/config.txt)
+
+## After all search your ip like it http://IP
+## user is : admin     password is : password
  
     
 It's recommended to run MHMrat behind a reverse proxy such as [NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
