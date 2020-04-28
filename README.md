@@ -30,11 +30,8 @@
  - NodeJs 
  - A Server 
 
-Setps of Installation :
+## first setps of Installation [Click Here](https://https://github.com/Dev-MHM/rat/pak.txt)
 
-apt install openjdk-11-jre-headless -y
-
-curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash - sudo apt-get install -y nodejs 
 
  
     
