@@ -30,7 +30,7 @@
  - NodeJs 
  - A Server 
 
-## first setps of Installation [Click Here](https://github.com/Dev-MHM/rat/pak.txt)
+## first setps of Installation [Click Here](https://github.com/Dev-MHM/rat/blob/master/pak.txt)
 
 
  
