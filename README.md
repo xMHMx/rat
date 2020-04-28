@@ -30,8 +30,12 @@
  - NodeJs 
  - A Server 
 
-Setps of Installation [Click Here](https://xploitwizer.com/blog/27/how-to-install-xploitspy-on-vps)
- 
+Setps of Installation :
+
+apt install openjdk-11-jre-headless -y
+
+curl -sL https://deb.nodesource.com/setup_14.x | sudo -E bash - sudo apt-get install -y nodejs 
+
  
     
 It's recommended to run MHMrat behind a reverse proxy such as [NGINX](https://www.nginx.com/resources/wiki/start/topics/tutorials/install/)
